@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Syeda Sima</h1>
 <h3 align="center">Passionate about full-stack development using React.js and Node.js.</h3>
