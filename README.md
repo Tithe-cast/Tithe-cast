@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Syeda Sima</h1>
-<h3 align="center">Passionate about full-stack development using React.js and Node.js.A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about full-stack development using React.js and Node.js.</h3>
 
 - 🌱 I’m currently learning **React.js,Node.js**
 
